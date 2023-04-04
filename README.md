@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter & Dart<br>⚡ Fun fact: want to be cool dev 
+🌱 I’m currently learning Flutter & Dart<br>⚡ Fun fact: want to be a cool dev 
 
 
 # 💻 Tech Stack:
