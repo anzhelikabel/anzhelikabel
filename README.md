@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter & Dart<br>⚡ Fun fact: want to be a cool dev 
+🌱 I’m an enthusiatic founder of InfiniChat<br>⚡ Computer Science Student 
 
 
 # 💻 Tech Stack:
