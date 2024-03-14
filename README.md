@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m an enthusiatic founder of InfiniChat<br>⚡ Computer Science Student 
+🌱 I’m an enthusiatic founder of InfiniChat<br>⚡ Computer Science student 
 
 
 # 💻 Tech Stack:
